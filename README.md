@@ -11,3 +11,6 @@ for文禁止でbingoゲームを作成
 - ビンゴ
 - 斜め判定付き
 - リーチ付き
+
+
+[BINGO](/src/main/Main.java)
